@@ -122,6 +122,7 @@
 | [FEKO](./UDLs/FEKO_byClintScarborough.xml) | [Clint Scarborough](mailto:clint@psu.edu) | FEKO |
 | [FHEM](./UDLs/FHEM_byChristophWempe.xml) | [Christoph Wempe](mailto:christoph@wempe.net) | FHEM |
 | [FileMaker Pro calculation](https://raw.githubusercontent.com/dansmith65/FileMaker-Notepad-plus-plus/master/userDefineLang_FileMaker.xml) | [Dan Smith](https://github.com/dansmith65/FileMaker-Notepad-plus-plus) | FileMaker Pro calculation |
+| [Fluent Scheme](./UDLs/Fluent_Scheme.xml) | [Andrea Pinardi](mailto:andreapinardi319@gmail.com) | Fluent-flavour of Scheme |
 | [Fobagraph Script DarkMode](./UDLs/Fobagraph_Script_%28.bia%29_DarkMode_by_HelloWorldFR.xml) | [HelloWorldFR](https://github.com/HelloWorldFR/) | Fobagraph Script for laser machine |
 | [Fobagraph Script LightMode](./UDLs/Fobagraph_Script_%28.bia%29_LightMode_by_HelloWorldFR.xml) | [HelloWorldFR](https://github.com/HelloWorldFR/) | Fobagraph Script for laser machine |
 | [FontForge Font project](./UDLs/FontForge_Project_byAndrewMiller.xml) | [Andrew Miller](mailto:A.J.Miller@bcs.org.uk) | FontForge Font project |
@@ -504,6 +505,7 @@
 | [F#](./autoCompletion/F%23.xml) | generate_ac.py | F# |
 | [Fanuc](./autoCompletion/HITACHI.xml) | generate_ac.py | Fanuc |
 | [FHEM](./autoCompletion/FHEM-Config.xml) | generate_ac.py | FHEM |
+| [Fluent Scheme](./autoCompletion/Fluent%20Scheme.xml) | generate_ac.py | Fluent-flavour of Scheme |
 | [Fobagraph Script DarkMode](./autoCompletion/Fobagraph.xml) | generate_ac.py | Fobagraph Script for laser machine |
 | [Fobagraph Script LightMode](./autoCompletion/Fobagraph.xml) | [HelloWorldFR](https://github.com/HelloWorldFR/) | Fobagraph Script for laser machine |
 | [FontForge Font project](./autoCompletion/FF%20Project.xml) | generate_ac.py | FontForge Font project |

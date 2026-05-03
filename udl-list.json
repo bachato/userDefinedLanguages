@@ -1190,6 +1190,17 @@
       "homepage": "https://github.com/dansmith65/FileMaker-Notepad-plus-plus"
     },
     {
+      "id-name": "Fluent_Scheme",
+      "display-name": "Fluent Scheme",
+      "version": "2026-May-03",
+      "sample": "Fluent_Scheme.jou",
+      "repository": "",
+      "description": "Fluent-flavour of Scheme",
+      "author": "Andrea Pinardi <mailto:andreapinardi319@gmail.com>",
+      "autoCompletion": "Fluent Scheme",
+      "autoCompletionAuthor": "generate_ac.py"
+    },
+    {
       "id-name": "Fobagraph_Script_(.bia)_DarkMode_by_HelloWorldFR",
       "display-name": "Fobagraph Script DarkMode",
       "version": "18/10/2023 17:40:00 GMT",
@@ -3964,15 +3975,6 @@
       "homepage": "https://github.com/tgschultz/Npp-ziglang-UDL",
       "autoCompletion": "Zig",
       "autoCompletionAuthor": "generate_ac.py"
-    },
-	{
-      "id-name": "Fluent_Scheme",
-      "display-name": "Fluent Scheme",
-      "version": "2026-May-03",
-      "sample": "Fluent_Scheme.jou",
-      "repository": "",
-      "description": "Fluent-flavour of Scheme",
-      "author": "Andrea Pinardi <mailto:andreapinardi319@gmail.com>"
     }
   ]
 }
